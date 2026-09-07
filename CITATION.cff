@@ -1,0 +1,79 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the repository and the associated conference paper."
+title: "MATLAB Implementation and Input Data for the Comparative Assessment of ELCC, ECP, and Firm Capacity Methodologies (IEEE ETCM 2026, Paper ID 119)"
+abstract: >-
+  MATLAB implementation and input datasets supporting the paper "Comparative
+  Assessment of ELCC, ECP, and Firm Capacity Methodologies for Resource
+  Adequacy in Renewable-Dominated Power Systems". The repository contains the
+  probabilistic-deterministic adequacy framework based on exact recursive
+  Capacity Outage Probability Table (COPT) convolution and 8760-hour
+  chronological Loss of Load Expectation (LOLE) evaluation, applied to a
+  24-hour illustrative case and to the Ecuador National Interconnected System
+  (SNI) 2025.
+type: software
+version: "1.0.0"
+date-released: "2026-09-07"
+license: MIT
+repository-code: "https://github.com/DiegoAriasCazco/ETCM_2026_PaperID119_ELCCandECP"
+url: "https://github.com/DiegoAriasCazco/ETCM_2026_PaperID119_ELCCandECP"
+
+authors:
+  - family-names: "Arias-Cazco"
+    given-names: "Diego"
+    email: "diearias@espol.edu.ec"
+    affiliation: "Facultad de Ingeniería en Electricidad y Computación, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Alvarez-Alvarado"
+    given-names: "Manuel S."
+    email: "mansalva@espol.edu.ec"
+    affiliation: "Facultad de Ingeniería en Electricidad y Computación, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Gaona-Ramos"
+    given-names: "Deivid"
+    email: "deivgaon@espol.edu.ec"
+    affiliation: "Facultad de Ingeniería en Electricidad y Computación, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Arias-Cazco"
+    given-names: "Pablo"
+    email: "pablo.ariasc@espoch.edu.ec"
+    affiliation: "Facultad de Ingeniería, Escuela Superior Politécnica de Chimborazo (ESPOCH), Riobamba, Ecuador"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+
+keywords:
+  - "ELCC"
+  - "ECP"
+  - "firm capacity"
+  - "capacity credit"
+  - "resource adequacy"
+  - "COPT convolution"
+  - "LOLE"
+  - "LOLP"
+  - "power system reliability"
+  - "solar photovoltaic"
+  - "Ecuador SNI"
+  - "MATLAB"
+
+preferred-citation:
+  type: conference-paper
+  title: "Comparative Assessment of ELCC, ECP, and Firm Capacity Methodologies for Resource Adequacy in Renewable-Dominated Power Systems"
+  year: 2026
+  collection-title: "2026 IEEE Eighth Ecuador Technical Chapters Meeting (ETCM)"
+  collection-type: "proceedings"
+  conference:
+    name: "IEEE Eighth Ecuador Technical Chapters Meeting (ETCM 2026)"
+    country: "EC"
+  publisher:
+    name: "IEEE"
+  authors:
+    - family-names: "Arias-Cazco"
+      given-names: "Diego"
+      affiliation: "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    - family-names: "Alvarez-Alvarado"
+      given-names: "Manuel S."
+      affiliation: "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    - family-names: "Gaona-Ramos"
+      given-names: "Deivid"
+      affiliation: "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    - family-names: "Arias-Cazco"
+      given-names: "Pablo"
+      affiliation: "Escuela Superior Politécnica de Chimborazo (ESPOCH), Riobamba, Ecuador"
