@@ -1,0 +1,57 @@
+{
+  "title": "MATLAB Implementation and Input Data for: Comparative Assessment of ELCC, ECP, and Firm Capacity Methodologies for Resource Adequacy in Renewable-Dominated Power Systems (IEEE ETCM 2026, Paper ID 119)",
+  "description": "MATLAB implementation and input datasets supporting the paper presented at the 2026 IEEE Eighth Ecuador Technical Chapters Meeting (ETCM 2026). The repository contains a unified probabilistic-deterministic framework based on exact recursive Capacity Outage Probability Table (COPT) convolution and 8760-hour chronological Loss of Load Expectation (LOLE) evaluation. Three capacity credit metrics are systematically compared: Effective Load Carrying Capability (ELCC), Equivalent Conventional Power (ECP), and Firm Capacity (PEPP criterion). The framework is validated on a 24-hour illustrative case and on the Ecuador National Interconnected System (SNI) 2025, using a disaggregated 19-unit generation model and a real solar profile derived from 13,017 spatially distributed NSRDB measurement points.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Arias-Cazco, Diego",
+      "affiliation": "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador",
+      "orcid": ""
+    },
+    {
+      "name": "Alvarez-Alvarado, Manuel S.",
+      "affiliation": "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador",
+      "orcid": ""
+    },
+    {
+      "name": "Gaona-Ramos, Deivid",
+      "affiliation": "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador",
+      "orcid": ""
+    },
+    {
+      "name": "Arias-Cazco, Pablo",
+      "affiliation": "Escuela Superior Politécnica de Chimborazo (ESPOCH), Riobamba, Ecuador",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "ELCC",
+    "ECP",
+    "firm capacity",
+    "capacity credit",
+    "resource adequacy",
+    "COPT convolution",
+    "LOLE",
+    "LOLP",
+    "power system reliability",
+    "solar photovoltaic",
+    "Ecuador SNI",
+    "MATLAB"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/DiegoAriasCazco/ETCM_2026_PaperID119_ELCCandECP",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "grants": [],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "access_right": "open"
+}
