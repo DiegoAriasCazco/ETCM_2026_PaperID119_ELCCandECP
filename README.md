@@ -13,7 +13,7 @@ MATLAB implementation and input data supporting the paper presented at the **202
 |---|---|---|---|
 | **Diego Arias-Cazco**, Senior Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador | diearias@espol.edu.ec |https://orcid.org/0000-0001-5655-4449 |
 | **Manuel S. Alvarez-Alvarado**, Senior Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, ESPOL, Guayaquil, Ecuador | mansalva@espol.edu.ec |https://orcid.org/0000-0002-0398-9235 |
-| **Deivid Gaona-Ramos**, Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, ESPOL, Guayaquil, Ecuador | deivgaon@espol.edu.ec | |
+| **Deivid Gaona-Ramos**, Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, ESPOL, Guayaquil, Ecuador | deivgaon@espol.edu.ec | https://orcid.org/0009-0000-3668-5548 |
 | **Pablo Arias-Cazco** | Facultad de Ingeniería, Escuela Superior Politécnica de Chimborazo (ESPOCH), Riobamba, Ecuador | pablo.ariasc@espoch.edu.ec |https://orcid.org/0009-0003-4643-3020 |
 
 All four authors are creators and contributors of this software and data repository.
