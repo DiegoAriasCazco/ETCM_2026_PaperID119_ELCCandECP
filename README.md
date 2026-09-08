@@ -10,7 +10,7 @@ MATLAB implementation and input data supporting the paper presented at the **202
 ## Authors
 
 | Author | Affiliation | Contact | ORCID |
-|---|---|---|
+|---|---|---|---|
 | **Diego Arias-Cazco**, Senior Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador | diearias@espol.edu.ec |https://orcid.org/0000-0001-5655-4449 |
 | **Manuel S. Alvarez-Alvarado**, Senior Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, ESPOL, Guayaquil, Ecuador | mansalva@espol.edu.ec |https://orcid.org/0000-0002-0398-9235 |
 | **Deivid Gaona-Ramos**, Member, IEEE | Facultad de Ingeniería en Electricidad y Computación, ESPOL, Guayaquil, Ecuador | deivgaon@espol.edu.ec | |
